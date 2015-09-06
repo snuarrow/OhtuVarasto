@@ -1,2 +1,2 @@
 /target/
-!/target/site/cobertura/
+!/target/site/cobertura/*
